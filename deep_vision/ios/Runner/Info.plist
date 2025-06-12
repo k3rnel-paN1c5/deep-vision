@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs access to your photo library to pick images for depth estimation.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to take photos for depth estimation.</string>
 </dict>
 </plist>
